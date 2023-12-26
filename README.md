@@ -8,6 +8,7 @@ To run all the examples, you need to install the following tools:
 
 * [Java 17](https://adoptium.net)
 * [Docker](https://www.docker.com)
+* [Video](https://www.youtube.com/watch?v=g7Dwv1BKnkg)
 
 ## Usage
 
